@@ -5,7 +5,7 @@ I'm Sam, I work on [PubStudio](https://pubstud.io) and a few projects at [SamaTe
 - Open source core for [PubStudio](https://github.com/pubstudio-builder)
 - Image processing job runner: [image-api](https://github.com/samatechtw/image-api)
 - Typescript library for building on Flow: [onflow-ts](https://github.com/samatechtw/onflow-ts)
-- [nx-vue3-vite](https://github.com/samatechtw/nx-vue3-vite) Nx plugin
+- Nx plugin for Vue3/Vite [nx-vue3-vite](https://github.com/samatechtw/nx-vue3-vite)
 
 ### Contact :mailbox:
-- [Email](mailto:sam@samatech.tw)
+- sam AT samatech.tw
