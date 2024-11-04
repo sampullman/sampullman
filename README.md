@@ -10,7 +10,7 @@ I spend most of my time on [PubStudio](https://pubstud.io) and a few projects at
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sampullman&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampullman&show_icons=true&hide_border=true&layout=compact&langs_count=120&theme=tokyonight&hide=hide%3Dphp,html,css,objective-c,shell,c%23,roff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampullman&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&hide=hide%3Dphp,html,css,objective-c,shell,c%23,roff"/>
 </p>
 
 ### Contact :mailbox:
